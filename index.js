@@ -16,3 +16,4 @@ console.log("add code on main")
 
 console.log("1 from main")
 console.log("1 from test_work")
+console.log("2 from main")
