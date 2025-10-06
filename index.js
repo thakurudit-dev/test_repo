@@ -8,3 +8,5 @@ console.log("conot with new branch")
 console.log("some text from main")
 
 console.log("working on mian branch")
+
+console.log("log for stash")
