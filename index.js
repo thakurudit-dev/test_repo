@@ -1,4 +1,4 @@
-console.log("initial setup remote change")
+console.log("initial setup remote change update message")
 console.log("working with new branch")
 
 console.log("update on main branch")
