@@ -13,3 +13,5 @@ console.log("log for stash")
 
 console.log("add some code on test branch")
 console.log("add code on main")
+
+console.log("1 from main")
