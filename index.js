@@ -15,3 +15,4 @@ console.log("add some code on test branch")
 console.log("add code on main")
 
 console.log("1 from main")
+console.log("2 from main")
