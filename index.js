@@ -23,3 +23,4 @@ console.log("3 from main")
 console.log("4 from test_work")
 
 console.log("4 from main")
+console.log("5 from main")
